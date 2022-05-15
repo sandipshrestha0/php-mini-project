@@ -1,0 +1,29 @@
+body {
+    box-sizing: border-box;
+    background-color: snow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard {
+    height: 300px;
+    width: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 3px;
+    margin: 5px;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+
+.box {
+    text-align: center;
+    margin: 5px;
+    height: 40px;
+    width: 100px;
+    border: 2px solid black;
+}

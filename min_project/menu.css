@@ -1,0 +1,38 @@
+body {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.dashboard {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(3, 5, 5, 0.555);
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px;
+    height: 40px;
+}
+
+.box a {
+    color: white;
+    text-decoration: none;
+}
+
+.box :hover {
+    background-color: whitesmoke;
+    color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
