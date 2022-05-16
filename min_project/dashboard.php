@@ -11,24 +11,24 @@
     <h1>Dashboard</h1>
     <div class="dashboard">
     <div class="box">
-            <a href="http://localhost/sandip/min_project/dashboard.php">Home</a>
+            <a href="dashboard.php">Home</a>
         </div>
         <div class="box">
-            <a href="http://localhost/sandip/min_project/show_all.php">Show All</a>
+            <a href="show_all.php">Show All</a>
         </div>
         <div class="box">
-            <a href="http://localhost/sandip/min_project/show_ind.php">Show Individual</a>
+            <a href="show_ind.php">Show Individual</a>
         </div>
         <div class="box">
-            <a href="http://localhost/sandip/min_project/insert.php">Insert</a>
+            <a href="insert.php">Insert</a>
         </div>
         <div class="box">
-            <a href="http://localhost/sandip/min_project/update.php">Update</a>
+            <a href="update.php">Update</a>
         </div>
         <div class="box">
-            <a href="http://localhost/sandip/min_project/delete.php">Delete</a>
+            <a href="delete.php">Delete</a>
         </div>
-        <div class="box"><a href="http://localhost/sandip/min_project/index.php">Exit</a> </div>
+        <div class="box"><a href="index.php">Exit</a> </div>
     </div>
 </body>
 </html>
